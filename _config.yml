@@ -6,5 +6,7 @@ relative_links:
 include:
   - README.md
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 title: CosmoForward
+description: A critical review of current and future routes to cosmological results.
+logo: /images/logo.png

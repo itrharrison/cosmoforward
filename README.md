@@ -1,14 +1,13 @@
-# CosmoForward
-Welcome to the website for the 2026 CosmoForward Meeting.
+Welcome to the website for the CosmoForward meeting, which will be held from **9th to 12th February 2026** in Tenerife, Canary Islands, Spain.
 
 - [Location](#location)
 - [Programme](#programme)
 
-## Location
+# Location
 
 The meeting will be in Tenerife!
 
-## Programme
+# Programme
 
 This is an indicative programme to give you an idea of the daily themes, material we expect to cover, and split between talks and discussion.
 

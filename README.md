@@ -26,4 +26,4 @@ This is an indicative programme to give you an idea of the daily themes, materia
 | 15:00 | Removal and marginalisation of less-known CMB instrumental systematics |  |  |  |
 | 15:30 | **Coffee** | **Coffee** |  | **Coffee** |
 | 16:00 | _Discussion_: community approaches to presentation of models | _Discussion_: targets for new measurements |  | _Discussion_: mapping infrastructure requirements to funding |
-| 16:45 | _Discussion_: viability of one-parameter extensions |  |  | _Discussion_: cross-platform implementation:: who and how? |
+| 16:45 | _Discussion_: viability of one-parameter extensions |  |  | _Discussion_: cross-platform implementation: who and how? |

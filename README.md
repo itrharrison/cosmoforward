@@ -3,8 +3,9 @@ Welcome to the website for the 2026 CosmoForward Meeting.
 
 - [Location](#location)
 - [Programme](#programme)
----
+
 ## Location
+
 The meeting will be in Tenerife!
 
 ## Programme

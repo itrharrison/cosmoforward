@@ -5,7 +5,7 @@ Welcome to the website for the CosmoForward meeting, which will be held from **9
 
 # Location
 
-The meeting will be in San Cristóbal de La Laguna, hosted at the [Museo de la ciencia | https://www.museosdetenerife.org/mcc-museo-de-la-ciencia-y-el-cosmos/] (TBC).
+The meeting will be in San Cristóbal de La Laguna, hosted at the [Museo de la ciencia](https://www.museosdetenerife.org/mcc-museo-de-la-ciencia-y-el-cosmos/) (TBC).
 
 # Programme
 The meeting will focus on four themes: (1) modelling, (2) measuring and (3) simulating the Universe, and the (4) infrastructure work required for it. 

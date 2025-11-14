@@ -36,3 +36,4 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 4. Hidde Jense
 5. Marc Vina
 6. Sunny Desai
+7. Tessa Baker

@@ -17,11 +17,11 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 | 9:00 | **Coffee & chat** | **Coffee & chat** | **Coffee & chat** | **Coffee & chat** |
 | 10:00 | <code style="color : SkyBlue">Welcome and Introduction</code> ([Calabrese]())| <code style="color : SkyBlue">Measurement anchors in the early Universe</code> | <code style="color : SkyBlue">Available simulations for cosmological analyses</code> | <code style="color : SkyBlue">Review of experiment likelihood frameworks:SO</code> ([Harrison]())|
 | 10:30 | <code style="color : SkyBlue">Cosmology in 2025 </code>| <code style="color : SkyBlue">Measurement anchors in the late Universe </code>| <code style="color : SkyBlue">Missing components of current simulations </code>| <code style="color : SkyBlue">Review of experiment likelihood frameworks:DESC </code>|
-| 11:00 | <code style="color : SkyBlue">Viable, physical and descriptive models of the early Universe </code> | <code style="color : SkyBlue">Measurement anchors in the Dark Ages </code> | <code style="color : SkyBlue">New standard ingredients in cosmological analyses</code> | <code style="color : SkyBlue">Review of experiment likelihood frameworks:Euclid </code>|
-| 11:30 | <code style="color : SkyBlue">Viable, physical and descriptive models of the late Universe </code> ([Baker]())| <code style="color : SkyBlue">External constraints on inflation theories </code>| <code style="color : SkyBlue">New standard astrophyical ingredients in cosmological analyses </code>| <code style="color : SkyBlue">Cross-correlation likelihoods, redundancy and use in combined cosmology </code>|
+| 11:00 | <code style="color : SkyBlue">Viable, physical and descriptive models of the early Universe </code> | <code style="color : SkyBlue">Measurement anchors in the Dark Ages </code> | <code style="color : SkyBlue">New standard ingredients in cosmological analyses</code> | <code style="color : SkyBlue">Review of experiment likelihood frameworks:Euclid </code> ([Martinelli]())|
+| 11:30 | <code style="color : SkyBlue">Viable, physical and descriptive models of the late Universe </code> ([Baker]())| <code style="color : SkyBlue">External constraints on inflation theories </code>| <code style="color : SkyBlue">New standard astrophyical ingredients in cosmological analyses </code> ([Schaan]())| <code style="color : SkyBlue">Cross-correlation likelihoods, redundancy and use in combined cosmology </code>|
 | 12:00 | <code style="color : SkyBlue">Removal and marginalisation of well-known foregrounds </code>| <code style="color : SkyBlue">External constraints on matter components </code>| <code style="color : Darkorange">Discussion: using simulations across multiple experiments </code>| <code style="color : SkyBlue">Inference sampling, speed and robustness </code> |
 | 12:30 | **Lunch (provided)** | **Lunch (provided)** | **Lunch (provided)** | **Lunch (provided)** |
-| 14:00 | <code style="color : SkyBlue">Treatment of less-known foregrounds </code> | <code style="color : SkyBlue">External constraints on Dark Energy theories </code>| **<code style="color : Purple">Trip to observatory followed by social dinner</code>**| <code style="color : SkyBlue">Added value of new methods </code>|
+| 14:00 | <code style="color : SkyBlue">Treatment of less-known foregrounds </code> | <code style="color : SkyBlue">External constraints on Dark Energy theories </code> ([Burrage]())| **<code style="color : Purple">Trip to observatory followed by social dinner</code>**| <code style="color : SkyBlue">Added value of new methods </code> ([Balkenhol]())|
 | 14:30 | <code style="color : SkyBlue">Removal and marginalisation of well-known CMB instrumental systematics </code>| <code style="color : Darkorange">Discussion: community approaches to measurement significance </code> |  | <code style="color : Darkorange">Discussion: code quality and openness </code> |
 | 15:00 | <code style="color : SkyBlue">Treatment of less-known CMB instrumental systematics </code>|  |  |  |
 | 15:30 | **Coffee** | **Coffee** |  | **Coffee** |
@@ -37,3 +37,7 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 5. Marc Vina
 6. Sunny Desai
 7. Tessa Baker
+8. Matteo Martinelli
+9. Clare Burrage
+10. Lennart Balkenhol
+11. Emmanuel Schaan

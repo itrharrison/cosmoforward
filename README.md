@@ -22,7 +22,7 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 | 12:00 | <code style="color : SkyBlue">Removal and marginalisation of well-known foregrounds </code>| <code style="color : SkyBlue">External constraints on matter components </code>| <code style="color : Darkorange">Discussion: using simulations across multiple experiments </code>| <code style="color : SkyBlue">Inference sampling, speed and robustness </code> ([Ruiz Zapatero]())|
 | 12:30 | **Lunch (provided)** | **Lunch (provided)** | **Lunch (provided)** | **Lunch (provided)** |
 | 14:00 | <code style="color : SkyBlue">Treatment of less-known foregrounds </code> | <code style="color : SkyBlue">External constraints on Dark Energy theories </code> ([Burrage]())| **<code style="color : Purple">Trip to observatory followed by social dinner</code>**| <code style="color : SkyBlue">Added value of new methods </code> ([Balkenhol]())|
-| 14:30 | <code style="color : SkyBlue">Removal and marginalisation of well-known CMB instrumental systematics </code>| <code style="color : Darkorange">Discussion: community approaches to measurement significance </code> |  | <code style="color : Darkorange">Discussion: code quality and openness </code> |
+| 14:30 | <code style="color : SkyBlue">Removal and marginalisation of well-known CMB instrumental systematics </code> ([Duivenvoorden]())| <code style="color : Darkorange">Discussion: community approaches to measurement significance </code> |  | <code style="color : Darkorange">Discussion: code quality and openness </code> |
 | 15:00 | <code style="color : SkyBlue">Treatment of less-known CMB instrumental systematics </code>|  |  |  |
 | 15:30 | **Coffee** | **Coffee** |  | **Coffee** |
 | 16:00 |<code style="color : Darkorange">Discussion: community approaches to presentation of models </code> | <code style="color : Darkorange">Discussion: targeting new measurements</code>  |  | <code style="color : Darkorange">Discussion: mapping infrastructure requirements to funding</code>  |
@@ -43,3 +43,4 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 11. Emmanuel Schaan
 12. Andrina Nicola
 13. Jaime Ruiz Zapatero
+14. Adri Duivenvoorden

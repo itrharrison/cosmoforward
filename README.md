@@ -15,8 +15,8 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 | Start Time | Mon Feb 9 | Tue Feb 10 | Wed Feb 11 | Thu Feb 12|
 |---|---|---|---|---|
 | 9:00 | **Coffee & chat** | **Coffee & chat** | **Coffee & chat** | **Coffee & chat** |
-| 10:00 | <code style="color : SkyBlue">Welcome and Introduction</code> ([Calabrese]())| <code style="color : SkyBlue">Measurement anchors in the early Universe</code> | <code style="color : SkyBlue">Available simulations for cosmological analyses</code> | <code style="color : SkyBlue">Review of experiment likelihood frameworks:SO</code> ([Harrison]())|
-| 10:30 | <code style="color : SkyBlue">Cosmology in 2025 </code>| <code style="color : SkyBlue">Measurement anchors in the late Universe </code>| <code style="color : SkyBlue">Missing components of current simulations </code>| <code style="color : SkyBlue">Review of experiment likelihood frameworks:DESC </code> ([Nicola]())|
+| 10:00 | <code style="color : SkyBlue">Welcome and Introduction</code> ([Calabrese]())| <code style="color : SkyBlue">Measurement anchors in the early Universe</code> | <code style="color : SkyBlue">Available simulations for cosmological analyses</code> ([Omori]())| <code style="color : SkyBlue">Review of experiment likelihood frameworks:SO</code> ([Harrison]())|
+| 10:30 | <code style="color : SkyBlue">Cosmology in 2025 </code>| <code style="color : SkyBlue">Measurement anchors in the late Universe </code> ([Sherwin]())| <code style="color : SkyBlue">Missing components of current simulations </code>| <code style="color : SkyBlue">Review of experiment likelihood frameworks:DESC </code> ([Nicola]())|
 | 11:00 | <code style="color : SkyBlue">Viable, physical and descriptive models of the early Universe </code> | <code style="color : SkyBlue">Measurement anchors in the Dark Ages </code> | <code style="color : SkyBlue">New standard ingredients in cosmological analyses</code> | <code style="color : SkyBlue">Review of experiment likelihood frameworks:Euclid </code> ([Martinelli]())|
 | 11:30 | <code style="color : SkyBlue">Viable, physical and descriptive models of the late Universe </code> ([Baker]())| <code style="color : SkyBlue">External constraints on inflation theories </code>| <code style="color : SkyBlue">New standard astrophysical ingredients in cosmological analyses </code> ([Schaan]())| <code style="color : SkyBlue">Cross-correlation likelihoods, redundancy and use in combined cosmology </code>|
 | 12:00 | <code style="color : SkyBlue">Removal and marginalisation of well-known foregrounds </code>| <code style="color : SkyBlue">External constraints on matter components </code> ([Lattanzi]())| <code style="color : Darkorange">Discussion: using simulations across multiple experiments </code>| <code style="color : SkyBlue">Inference sampling, speed and robustness </code> ([Ruiz Zapatero]())|
@@ -46,3 +46,5 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 14. Adri Duivenvoorden
 15. Zach Atkins
 16. Massimiliano Lattanzi
+17. Yuki Omori
+18. Blake Sherwin

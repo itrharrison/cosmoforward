@@ -55,3 +55,4 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 23. Ricardo T. Génova Santos
 24. José Alberto Rubiño Martín
 25. Boryana Hadzhiyska
+26. Chris Novell

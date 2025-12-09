@@ -35,23 +35,22 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 3. Serena Giardiello
 4. Hidde Jense
 5. Marc Vina
-6. Sunny Desai
-7. Tessa Baker
-8. Matteo Martinelli
-9. Clare Burrage
-10. Lennart Balkenhol
-11. Emmanuel Schaan
-12. Andrina Nicola
-13. Jaime Ruiz Zapatero
-14. Adri Duivenvoorden
-15. Zach Atkins
-16. Massimiliano Lattanzi
-17. Yuki Omori
-18. Blake Sherwin
-19. Benjamin Beringue
-20. Martina Gerbino
-21. Giulio Fabbian
-22. Renée Hložek
-23. Roke Cepeda-Arroita
-24. Ricardo T. Génova Santos
-25. José Alberto Rubiño Martín
+6. Tessa Baker
+7. Matteo Martinelli
+8. Clare Burrage
+9. Lennart Balkenhol
+10. Emmanuel Schaan
+11. Andrina Nicola
+12. Jaime Ruiz Zapatero
+13. Adri Duivenvoorden
+14. Zach Atkins
+15. Massimiliano Lattanzi
+16. Yuki Omori
+17. Blake Sherwin
+18. Benjamin Beringue
+19. Martina Gerbino
+20. Giulio Fabbian
+21. Renée Hložek
+22. Roke Cepeda-Arroita
+23. Ricardo T. Génova Santos
+24. José Alberto Rubiño Martín

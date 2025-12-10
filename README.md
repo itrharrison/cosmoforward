@@ -56,3 +56,4 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 24. José Alberto Rubiño Martín
 25. Boryana Hadzhiyska
 26. Chris Lovell
+27. Marta Spinelli

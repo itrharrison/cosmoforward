@@ -59,3 +59,5 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 27. Marta Spinelli
 28. Matteo Braglia
 29. Mat Madhavacheril
+30. Emilio Bellini
+31. Marina Migliaccio

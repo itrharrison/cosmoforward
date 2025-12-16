@@ -45,7 +45,7 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 13. Adri Duivenvoorden
 14. Zach Atkins
 15. Massimiliano Lattanzi
-16. Yuki Omori
+16. Yuuki Omori
 17. Blake Sherwin
 18. Benjamin Beringue
 19. Martina Gerbino

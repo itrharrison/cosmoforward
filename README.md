@@ -61,3 +61,9 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 29. Mat Madhavacheril
 30. Emilio Bellini
 31. Marina Migliaccio
+32. Carlos Hernández-Monteagudo
+33. Jorge Martín-Camalich
+34. Alessandro Fasano
+35. Ana Almedia
+36. Kumar Aryan
+37. Utsav Bose

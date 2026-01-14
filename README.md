@@ -67,3 +67,7 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 35. Ana Almedia
 36. Kumar Aryan
 37. Utsav Bose
+38. Alba Crespo Pérez 
+39. Mar Pérez-Sar 
+40. Elena Vanetti
+41. Francisco-Shu Kitaura 

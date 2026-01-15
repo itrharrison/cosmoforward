@@ -71,3 +71,4 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 39. Mar Pérez-Sar 
 40. Elena Vanetti
 41. Francisco-Shu Kitaura 
+42. Marco Raveri

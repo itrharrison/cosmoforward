@@ -21,7 +21,7 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 | 11:30 | <code style="color : SkyBlue">Viable, physical and descriptive models of the late Universe </code> ([Baker]())|  <code style="color : SkyBlue">External constraints on matter components </code> ([Lattanzi]())| <code style="color : SkyBlue">Review of experiment likelihood frameworks:SO</code> ([Harrison]())| <code style="color : Grey">Breakout</code>|
 | 12:00 | <code style="color : SkyBlue">Removal and marginalisation of well-known foregrounds </code> ([Beringue]())| <code style="color : SkyBlue">External constraints on Dark Energy theories </code> ([Burrage]())| <code style="color : SkyBlue">Review of experiment likelihood frameworks:DESC </code> ([Nicola]())| <code style="color : SkyBlue">Review of experiment likelihood frameworks:Euclid </code> ([Martinelli]())|
 | 12:30 | **Lunch (provided)** | **Lunch (provided)** | **Lunch (provided)** | **Lunch (provided)** |
-| 14:00 | <code style="color : SkyBlue">Treatment of less-known foregrounds </code> ([Cepeda-Arriota]())| <code style="color : SkyBlue">New standard ingredients in cosmological analyses</code> (TBD)| **<code style="color : Purple">Trip to observatory followed by social dinner</code>**| <code style="color : SkyBlue">Cross-correlation likelihoods, redundancy and use in combined cosmology </code> ([Fabbian]())|
+| 14:00 | <code style="color : SkyBlue">Treatment of less-known foregrounds </code> ([Cepeda-Arriota]())| <code style="color : SkyBlue">New standard ingredients in cosmological analyses</code> (Schmidt)| **<code style="color : Purple">Trip to observatory followed by social dinner</code>**| <code style="color : SkyBlue">Cross-correlation likelihoods, redundancy and use in combined cosmology </code> ([Fabbian]())|
 | 14:30 | <code style="color : SkyBlue">Removal and marginalisation of well-known CMB instrumental systematics </code> ([Duivenvoorden]())| <code style="color : SkyBlue">New standard astrophysical ingredients in cosmological analyses </code> ([Schaan]())|  | <code style="color : SkyBlue">Inference sampling, speed and robustness </code> ([Ruiz Zapatero]())|
 | 15:00 | <code style="color : SkyBlue">Treatment of less-known CMB instrumental systematics </code> ([Atkins]())|  <code style="color : Darkorange">Discussion: community approaches to measurement significance </code>|  |  <code style="color : SkyBlue">Added value of new methods </code> ([Balkenhol]())|
 | 15:30 | **Coffee** | **Coffee** |  | **Coffee** |
@@ -72,3 +72,4 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 40. Elena Vanetti
 41. Francisco-Shu Kitaura 
 42. Marco Raveri
+43. Fabian Schmidt

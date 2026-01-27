@@ -73,3 +73,4 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 41. Francisco-Shu Kitaura 
 42. Marco Raveri
 43. Fabian Schmidt
+44. Giacomo Galloni

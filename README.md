@@ -28,6 +28,7 @@ Below is a draft program summarising the talks, confirmed speakers, material we 
 | 16:00 |<code style="color : Darkorange">Discussion: community approaches to presentation of models </code> | <code style="color : Darkorange">Discussion: community approaches to measurement significance </code> ([Raveri])  |  | <code style="color : Darkorange">Discussion: mapping infrastructure requirements to funding</code>  |
 | 16:45 | <code style="color : Darkorange">Discussion: viability of one-parameter extensions</code>  | <code style="color : Darkorange">Discussion: using simulations across multiple experiments </code> ([Lovell](talks/Lovell_CosmoForward.pdf )) |  | <code style="color : Darkorange">Discussion: cross-platform implementation: who and how? Code quality and openness </code>  |
 
+![The conference photo](images/Photo_CosmoForward.jpeg)
 
 # Participants
 1. Erminia Calabrese
